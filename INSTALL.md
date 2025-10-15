@@ -9,7 +9,7 @@ ttinyed is a simple graphical text editor written in Python using Tkinter. It al
 - Python 3.x
 - Tkinter (Python GUI library)
 
-All other modules used (`platform`, `os`, `sys`, `subprocess`) are part of the Python standard library.
+All other modules used (`platform`, `os`, `sys`, `subprocess`, `json`) are part of the Python standard library.
 
 ## Installing Python
 
